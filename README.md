@@ -1,7 +1,4 @@
-HelloWorld
-==========
-
-/×The first test example.×/
+#inlcude <stdio.h>
 
 main()
 {

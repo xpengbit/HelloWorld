@@ -1,4 +1,9 @@
 HelloWorld
 ==========
 
-The first test example.
+/×The first test example.×/
+
+main()
+{
+    printf("Hello World!\n");
+}
